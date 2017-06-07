@@ -9,3 +9,8 @@ There's code for both front and back-end.
 #
 The project was made for educational purposes.
 It's based on the guide by Socket.io @ https://socket.io/get-started/chat/
+
+
+#
+I believe I could have fucked something up.
+Ongoing fixes.
