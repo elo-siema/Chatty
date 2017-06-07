@@ -12,6 +12,9 @@ app.get('/', (req, res) => {
 app.get('/user.js', (req, res) => {
   res.sendFile(__dirname + '/user.js')
 })
+app.get('/socket.io.js', (req, res) => {
+  res.sendFile(__dirname + '/socket.io.js')
+})
 
 
 //chat event handlers
